@@ -16,7 +16,5 @@ int main()
   printf("the product is %d\n",e);
   printf("the sum is %.2f\n",f);
   return 0;
-  
-
 
 }
