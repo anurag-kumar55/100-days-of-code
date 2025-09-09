@@ -1,4 +1,4 @@
-// Write a program to input an integer and check whether it is even or 
+// Write a program to input an integer and check whether it is even or odd.
 
 #include<stdio.h>
 int main()
@@ -14,4 +14,5 @@ int main()
         printf("%d is odd\n",a);
      }
      return 0;
+
 }
