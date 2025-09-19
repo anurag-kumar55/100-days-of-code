@@ -9,7 +9,8 @@ int main ()
     a=a^b;
     b=a^b;
     a=a^b;
-    printf("After Swap we get: a=%d,b=%d\n",a,b);
+    printf("After Swap we get: a=%b,b=%a\n",a,b);
     return 0;
 
 }
+
